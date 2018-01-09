@@ -24,6 +24,5 @@
   <h2> Vision</h2>
  <p> to make each and every village of India and ideal place having the basic facilities ........ and some texts.... </p>
 </div>
-
 </body>
 </html>
